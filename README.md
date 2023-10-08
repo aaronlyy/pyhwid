@@ -1,0 +1,1 @@
+# pyhwid: Generate HWIDs on Windows & MacOS
